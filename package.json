@@ -1,0 +1,15 @@
+{
+  "name": "actividad1",
+  "version": "1.0.0",
+  "description": "Crear un script con todo lo aprendido previamente",
+  "main": "index.js",
+  "scripts": {
+    "saludo":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holaOpenBootcamp"
+  ],
+  "author": "Jorge manjarrez",
+  "license": "ISC"
+}
